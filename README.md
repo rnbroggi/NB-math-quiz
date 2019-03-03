@@ -1,30 +1,4 @@
-# nb-math-quiz
+Site: https://nb-math-quiz-94a93.firebaseapp.com/
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# NB-math-quiz
+This is my first very simple app built in Vue.js
+Is nothing more than a single window app I made to test how firebase deployment works
